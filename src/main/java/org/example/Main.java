@@ -15,7 +15,6 @@ import java.util.Scanner;
             System.out.println("Welcome to the game 'guess the number'!");
             game.start();
 
-
             sc.close();
             System.out.println("Thank you for the game!");
         }
